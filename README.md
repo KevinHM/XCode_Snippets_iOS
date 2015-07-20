@@ -28,7 +28,7 @@ Usage:
 
 > step 3、 xcodesnippet install (xxx.m)
 
-The Tool is provided by [matt](https://github.com/Xcode-Snippets/xcodesnippet)
+Thanks [matt](https://github.com/Xcode-Snippets/xcodesnippet)'s Ruby Tool: xcodesnippet.
 
 ### Creator
 
