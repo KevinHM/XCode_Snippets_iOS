@@ -15,7 +15,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>All Comment For Method</string>
+	<string>Comments For Methods</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Comment Method</string>
 	<key>IDECodeSnippetUserSnippet</key>

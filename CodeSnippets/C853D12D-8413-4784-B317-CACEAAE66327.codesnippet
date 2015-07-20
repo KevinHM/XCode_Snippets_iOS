@@ -15,7 +15,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>declares a new local variable called self each time to aviod retain clcye inside block</string>
+	<string>Declares a new local variable called self each time to aviod retain clcye inside block</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>@strongify(self)</string>
 	<key>IDECodeSnippetUserSnippet</key>
