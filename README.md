@@ -35,6 +35,5 @@ The Tool is provided by [matt](https://github.com/Xcode-Snippets/xcodesnippet)
 [KevinHM](https://github.com/KevinHM)
 
 ### License
----
 
 Xcode_Snippets_iOS is released under an MIT license. See LICENSE for more information.
