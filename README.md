@@ -21,7 +21,9 @@ Thanks [tangqiaoboy](https://github.com/tangqiaoboy) For the setup_snippets.sh
 Usage:
 
 > step 1、 gem install xcodesnippet
+	
 > step 2、 cd SourceCode
+
 > step 3、 xcodesnippet install (xxx.m)
 
 The Tool is provided by [matt](https://github.com/Xcode-Snippets/xcodesnippet)
