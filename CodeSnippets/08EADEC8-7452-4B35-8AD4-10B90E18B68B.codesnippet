@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>hmCheckError</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>TopLevel</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>static void CheckError(OSStatus error, const char *operation) {
+    if (error == noErr) {
+        return;
+    }
+    
+    char str[20];
+    *(UInt32 *) (str + 1) = CFSwapInt32HostToBig(error);
+    if (isprint(str[1]) &amp;&amp; isprint(str[2]) &amp;&amp; isprint(str[3]) &amp;&amp; isprint(str[4])) {
+        str[0] = str[5] = '\'';
+        str[6] = '\0';
+    } else {
+        sprintf(str, "%d", (int)error);
+    }
+    
+    fprintf(stderr, "[Error] %s (%s)\n", operation, str);
+    exit(1);
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>08EADEC8-7452-4B35-8AD4-10B90E18B68B</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Function that extracts human-readable information from OSStatus codes.</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>CheckError</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
