@@ -40,7 +40,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Methods required to use the iOS Mail Composer</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>MFMailComposeViewController Initialization &amp; Delegate</string>
+	<string>MFMailComposeViewController Init&amp;Delegate</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

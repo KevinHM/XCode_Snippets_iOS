@@ -23,7 +23,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>Dispatch to do work in the background, and then to the main queue with the results</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>gcd_async</string>
+	<string>GCD_Asyn</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

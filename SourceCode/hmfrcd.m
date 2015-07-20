@@ -1,21 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>hmfrcd</string>
-	<key>IDECodeSnippetCompletionScopes</key>
-	<array>
-		<string>ClassImplementation</string>
-	</array>
-	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - NSFetchedResultsControllerDelegate
+---
+title: "NSFetchedResultsControllerDelegate"
+summary: "Placeholders for the fetched results controller delegate methods"
+completion-scope: Class Implementation
+---
+
+#pragma mark - NSFetchedResultsControllerDelegate
 
 - (void)controllerWillChangeContent:(NSFetchedResultsController *)controller {
     [self.tableView beginUpdates];
 }
 
-- (void)controller:(NSFetchedResultsController *)controller didChangeSection:(id &lt;NSFetchedResultsSectionInfo&gt;)sectionInfo
+- (void)controller:(NSFetchedResultsController *)controller didChangeSection:(id <NSFetchedResultsSectionInfo>)sectionInfo
 atIndex:(NSUInteger)sectionIndex forChangeType:(NSFetchedResultsChangeType)type {
     switch(type) {
         case NSFetchedResultsChangeInsert:
@@ -50,18 +45,4 @@ forChangeType:(NSFetchedResultsChangeType)type newIndexPath:(NSIndexPath *)newIn
 
 - (void)controllerDidChangeContent:(NSFetchedResultsController *)controller {
     [self.tableView endUpdates];
-}</string>
-	<key>IDECodeSnippetIdentifier</key>
-	<string>48808B96-A83E-4508-B317-FB90BDDB7012</string>
-	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetSummary</key>
-	<string>Placeholders for the fetched results controller delegate methods</string>
-	<key>IDECodeSnippetTitle</key>
-	<string>NSFetchedResultsControllerDelegate</string>
-	<key>IDECodeSnippetUserSnippet</key>
-	<true/>
-	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
-</dict>
-</plist>
+}
