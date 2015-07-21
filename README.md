@@ -26,7 +26,7 @@ Usage:
 	
 > step 2、 cd SourceCode
 
-> step 3、 xcodesnippet install (xxx.m)
+> step 3、 xcodesnippet install xxx.m
 
 Thanks [matt](https://github.com/Xcode-Snippets/xcodesnippet)'s Ruby Tool: xcodesnippet.
 
