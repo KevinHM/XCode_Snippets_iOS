@@ -8,6 +8,8 @@ Just a few code snippets I have in my Xcode arsenal. I thought it'd be cool to p
 
 ### Using Snippets
 
+(Xcode6.4 OK, Other versions not verified, Any question, issue please)
+
 Usage:
 
 > step 1、Check out the project using : https://github.com/KevinHM/XCode_Snippets_iOS.git
