@@ -1,8 +1,7 @@
 ---
 title: "DocumentsDirectoryPath"
 summary: "Documents Directory Path"
-completion-scope: Function or Method
+completion-scope: All
 ---
 
-NSURL *documentsDirectoryURL = \
-[NSURL fileURLWithPath:[NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) firstObject]];
+[NSURL fileURLWithPath:[NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES) firstObject]]
