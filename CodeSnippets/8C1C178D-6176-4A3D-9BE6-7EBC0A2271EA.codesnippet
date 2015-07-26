@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>hmosmax</string>
+	<string>hmosmin</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#if __IPHONE_OS_VERSION_MAX_ALLOWED &gt; __IPHONE_&lt;#N#&gt;_&lt;#M#&gt;
-&lt;#New Feature API #&gt;
+	<string>#if __IPHONE_OS_VERSION_MIN_REQUIRED &gt; __IPHONE_&lt;#N#&gt;_&lt;#M#&gt;
+&lt;#Supported Lowest OS Version#&gt;
 #endif</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>82596F3D-4754-4670-9C73-1BE7C8E4B022</string>
+	<string>8C1C178D-6176-4A3D-9BE6-7EBC0A2271EA</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>New Feature API Palyground</string>
+	<string>DeploymentTarget Lowest OS Version</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>IPHONE_OS_VERSION_MAX_ALLOWED</string>
+	<string>IPHONE_OS_VERSION_MIN_REQUIRED</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
