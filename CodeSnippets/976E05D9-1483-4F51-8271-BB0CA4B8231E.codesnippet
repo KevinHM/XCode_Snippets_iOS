@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>hmsimenable</string>
+	<string>NS_DESIGNATED_INITIALIZER</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#if (__i386__ || __x86_64__ )</string>
+	<string>NS_DESIGNATED_INITIALIZER</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>4CA11E31-6781-4BB2-9B80-7702E06C1CAE</string>
+	<string>976E05D9-1483-4F51-8271-BB0CA4B8231E</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Simulator Enabled Expression</string>
+	<string>The Designated Initializer Of Class</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Simulator Enabled Expression</string>
+	<string>Designated Initializer</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
