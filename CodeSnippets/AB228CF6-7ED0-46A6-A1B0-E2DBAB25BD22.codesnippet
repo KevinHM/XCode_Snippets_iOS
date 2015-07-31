@@ -3,28 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>hmexception</string>
+	<string>hmtitle</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string> NS_DURING
-      &lt;#Do something unsafed#&gt;
-    NS_HANDLER
-      &lt;#Handler the exception#&gt;
-    NS_ENDHANDLER</string>
+	<string>/**************************************************************************
+ * &lt;#Explain For Function#&gt;
+ **************************************************************************/</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>14B2EB13-A91F-454E-8243-25ADBF595A52</string>
+	<string>AB228CF6-7ED0-46A6-A1B0-E2DBAB25BD22</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Try-Catch (Process exception)</string>
+	<string>Comments About Function</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>try-catch (process exception)</string>
+	<string>Explain For Function</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
