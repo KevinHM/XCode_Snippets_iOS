@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>hmexception</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string> NS_DURING
+      &lt;#Do something unsafed#&gt;
+    NS_HANDLER
+      &lt;#Handler the exception#&gt;
+    NS_ENDHANDLER</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>14B2EB13-A91F-454E-8243-25ADBF595A52</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Try-Catch (Process exception)</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>try-catch (process exception)</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
