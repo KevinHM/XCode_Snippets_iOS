@@ -6,18 +6,18 @@
 	<string>hmosmin</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>#if __IPHONE_OS_VERSION_MIN_REQUIRED &gt; __IPHONE_&lt;#N#&gt;_&lt;#M#&gt;
 &lt;#Supported Lowest OS Version#&gt;
 #endif</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>8C1C178D-6176-4A3D-9BE6-7EBC0A2271EA</string>
+	<string>D625B29D-75D0-4278-B5EB-1E6BEB4ACF32</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>DeploymentTarget Lowest OS Version</string>
+	<string>iPhone's OS Version mini Required</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>IPHONE_OS_VERSION_MIN_REQUIRED</string>
 	<key>IDECodeSnippetUserSnippet</key>
