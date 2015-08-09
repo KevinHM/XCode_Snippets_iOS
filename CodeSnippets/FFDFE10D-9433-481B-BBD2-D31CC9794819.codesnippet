@@ -3,24 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@weakify</string>
+	<string>hmdefault</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@weakify(&lt;#Object#&gt;);</string>
+	<string>- (void)defaultValueOfVariables {
+    &lt;#default Value#&gt;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>F78B5347-E0D1-4AD4-B227-D1A989ED36BE</string>
+	<string>FFDFE10D-9433-481B-BBD2-D31CC9794819</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>worked with @strongify</string>
+	<string>Default Value Of Variables</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>@weakify(self)</string>
+	<string>Default value setup</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
