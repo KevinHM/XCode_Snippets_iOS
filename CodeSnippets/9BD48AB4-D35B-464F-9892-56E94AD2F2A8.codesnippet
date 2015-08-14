@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)setupComponents {
+	<string>- (void)p_setupComponents {
     &lt;#Set Up#&gt;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
