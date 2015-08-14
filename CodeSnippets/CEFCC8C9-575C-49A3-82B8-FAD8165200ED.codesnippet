@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/*!&lt; &lt;#comments#&gt;*/</string>
+	<string>/**&lt; &lt;#comments#&gt;*/</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CEFCC8C9-575C-49A3-82B8-FAD8165200ED</string>
 	<key>IDECodeSnippetLanguage</key>
