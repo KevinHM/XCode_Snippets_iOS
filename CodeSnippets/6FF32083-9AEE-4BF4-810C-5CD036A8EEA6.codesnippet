@@ -29,13 +29,13 @@
 
 &lt;#UserInterAction#&gt;
 
-#pragma mark - Delegate
-
-&lt;#ProtocolInterface#&gt;
-
 #pragma mark - Internal Helpers
 
 &lt;#InternalHelpers or PrivateInterface #&gt;
+
+#pragma mark - Delegate
+
+&lt;#ProtocolInterface#&gt;
 
 #pragma mark - Setter / Getter
 
