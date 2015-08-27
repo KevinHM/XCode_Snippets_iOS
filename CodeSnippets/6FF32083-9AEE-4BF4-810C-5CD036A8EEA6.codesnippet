@@ -37,7 +37,9 @@
 
 &lt;#InternalHelpers or PrivateInterface #&gt;
 
-#pragma mark - Setter / Getter</string>
+#pragma mark - Setter / Getter
+
+&lt;#All Setter &amp; Getter#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6FF32083-9AEE-4BF4-810C-5CD036A8EEA6</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -49,6 +51,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
