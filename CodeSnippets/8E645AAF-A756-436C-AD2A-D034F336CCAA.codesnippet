@@ -9,12 +9,16 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)p_configuredViewHierarchy {
+	<string>- (void)p_configViewHierarchy {
     &lt;#view hierarchy#&gt;
 }
 
 - (void)p_layoutComponents {
     &lt;#autolayout#&gt;
+}
+
+- (void)p_configComponents {
+    &lt;#config components#&gt;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8E645AAF-A756-436C-AD2A-D034F336CCAA</string>
