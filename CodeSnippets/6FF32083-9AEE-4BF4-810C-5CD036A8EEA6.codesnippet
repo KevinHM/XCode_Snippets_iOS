@@ -39,8 +39,12 @@
 
 #pragma mark - Setter / Getter
 
+<<<<<<< HEAD
 &lt;#Setter &amp; Getter#&gt;
 </string>
+=======
+&lt;#All Setter &amp; Getter#&gt;</string>
+>>>>>>> b31fba81286bbd5e8fd243d95fc5e91fa4db3d3e
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6FF32083-9AEE-4BF4-810C-5CD036A8EEA6</string>
 	<key>IDECodeSnippetLanguage</key>

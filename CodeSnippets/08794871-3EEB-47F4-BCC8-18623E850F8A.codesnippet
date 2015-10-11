@@ -3,31 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>hmLayout</string>
+	<string>hmmarkline</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)p_configViewHierarchy {
-    &lt;#view hierarchy#&gt;
-}
-
-- (void)p_layoutComponents {
-    &lt;#autolayout#&gt;
-}
-
-- (void)p_configComponents {
-    &lt;#config components#&gt;
-}</string>
+	<string>#pragma mark -------------------- &lt;#mark content#&gt; --------------------</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>8E645AAF-A756-436C-AD2A-D034F336CCAA</string>
+	<string>08794871-3EEB-47F4-BCC8-18623E850F8A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>ViewHierarchy and Autolayout</string>
+	<string>pragma mark ---- some brief ------</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ViewHierarchy&amp;Autolayout</string>
+	<string>hmmarkline</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
