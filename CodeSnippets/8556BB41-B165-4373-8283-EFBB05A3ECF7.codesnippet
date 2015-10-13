@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>hmmarktype</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>#pragma mark - LifeCycle
+&lt;#lifeCycle#&gt;
+
+#pragma mark - View LifeCycle
+
+&lt;#view Life Cycle #&gt;
+
+#pragma mark - Layout
+
+&lt;#Layout#&gt;
+
+
+#pragma mark - Public Interface
+
+&lt;#Public Interface#&gt;
+
+#pragma mark - Internal Helpers
+
+&lt;#Internal Helper#&gt;
+
+#pragma mark - User Interface
+
+&lt;#User Interface#&gt;
+
+#pragma mark - Delegate
+
+&lt;#Delegate#&gt;
+
+#pragma mark - Setter / Getter
+
+&lt;#Setter/Getter#&gt;
+
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>8556BB41-B165-4373-8283-EFBB05A3ECF7</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>ViewControllerMarkType</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>HMMarkType</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
